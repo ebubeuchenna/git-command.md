@@ -292,8 +292,7 @@ The comment will generally not be visible when the Markdown is rendered.
 Comments can be useful for leaving notes inside documentation.
 
 24. Emojis
-Many platforms support emojis directly.
-# ■ My Project
+Many platforms support emojis directly
 This project is ready! ■
 Some platforms also support emoji codes, but direct Unicode emojis are usually the simplest approach.
 
