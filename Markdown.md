@@ -269,7 +269,6 @@ This is not italic
 Common characters that may need escaping include:
 *
 _
-#
 `
 [
 ]
