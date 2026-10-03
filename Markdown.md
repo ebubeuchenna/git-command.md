@@ -299,4 +299,4 @@ Some platforms also support emoji codes, but direct Unicode emojis are usually t
 If you need to show triple backticks inside a code block, use four backticks around the example.
 Example:
 console.log("Hello");
-This is useful when teaching Markdown because you can show Markdown syntax without having it rendered
+This is useful when teaching Markdown because you can show Markdown syntax without having it rendered.
